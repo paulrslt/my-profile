@@ -1,0 +1,28 @@
+body{
+	background-color: #f4f4f2;
+	color: #393b44;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+	font-size: 16px;
+}
+h1{
+	font-size: 50px;
+	font-weight: lighter;
+}
+h2{
+	font-weight: 400;
+	color:#14274e;
+}
+a{
+	color: #8d93ab;
+	text-decoration: none; 
+	transition: 0.3 ease
+}
+a:hover {
+	color: #2d6187;
+	font-size: 12px;
+}
+
+div {
+	box-shadow: 1px dark;
+}
